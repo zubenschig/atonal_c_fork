@@ -4,7 +4,7 @@ union test {
 	int i;
 	char c[sizeof(int)];
 };
-
+// okie dokie
 int main() {
 
 	union test t;
